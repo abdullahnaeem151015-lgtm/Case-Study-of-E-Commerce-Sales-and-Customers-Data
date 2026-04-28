@@ -9,7 +9,7 @@ Project Links:
 **Presentation (Slides):**  
   https://1drv.ms/p/c/B4784E914C0EC996/IQC9EbA0AA_2QZ3DSS8tprDcAXwOj2jQl-GBpNwaFRDzR3o  
 
-Business Value
+**Business Value:**
 
 This analysis helps businesses:
 - Optimize pricing and discount strategies  
