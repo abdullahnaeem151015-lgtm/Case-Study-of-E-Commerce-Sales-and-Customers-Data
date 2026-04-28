@@ -1,0 +1,60 @@
+Dataset Overview
+
+This dataset represents e-commerce sales transactions, including customer behavior, product details, and regional performance. It is designed to analyze sales trends, payment preferences, and business profitability.
+
+ Such datasets typically include transaction-level data like orders, regions, and payment methods, enabling analysis of trends and customer behavior
+
+  Key Columns Used
+Order ID → Unique identifier for each transaction
+Date → Transaction date
+Customer Name → Name of the customer
+Country → Name of the country
+Region → Sales region (e.g., Europe, North America)
+Product Category → Type of product sold
+Product Name → Name of the product
+Quantity → Number of units sold
+Unit Price → Price per item
+Total Revenue → Total sales value
+Shipping Cost → Tells shipping cost per item
+Payment Method → Credit Card, PayPal, COD, Bank Transfer
+Discount Applied → Whether discount was given
+Profit / Profit Margin → Business profitability
+Weighted margin → Tells overall profitability
+Sales Remark → Tells sales feedback
+Profit Remarks → Tells profit feedback
+Years → Transaction month
+Month → Transaction Year
+
+These types of columns are standard in e-commerce datasets used to analyze trends, customer behavior, and sales performance
+
+What This Data Helps Analyze:
+Regional sales performance
+Customer payment preferences
+Impact of discounts on sales
+Profitability across segments
+Seasonal trends in revenue
+
+Key Findings
+Europe generated the highest sales.
+North America had the highest weighted profit margin.
+Consumer segment performed best.
+High discounts reduced profitability.
+Most commonly used payment method is credit card
+Performance need to improve for low margin categories like office supplies
+Business has consistent sales around the years with slight improvement in marketing strategies need to increase in before fall season
+
+Business Recommendations
+
+Focus expansion in Europe (sales growth) ​
+
+Strengthen North America (profitability) ​
+
+Target Consumer segment for marketing ​
+
+Improve low-margin categories ​
+
+Focus on using Credit card payment method on most of the regions​
+
+Align strategies with seasonal demand ​
+
+Avoid high discount on products to protect the profitability and improve the sales ​
